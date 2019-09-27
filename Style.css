@@ -1,1 +1,35 @@
-h1 {color: green;}
+/*General*/
+h1 {
+  color: #ffb71b;
+  }
+h2 {
+  color: #ffb71b;
+  }
+p {
+  color: black;
+  }
+ul {
+  color: black;
+  }
+ol {
+  color: black;
+  }
+main {
+  background-color: #bec0c2;
+  width: 85%;
+  display: block;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  }
+header {
+  background-color: #0f2044;
+  width: 85%;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  }
+img {
+  border: black solid 5px;
+}
+
+/*Layout*/
