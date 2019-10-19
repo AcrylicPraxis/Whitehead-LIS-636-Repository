@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <head>
+<!-- I think everything is working except for the header background color, which I don't understand why. 
+The only thing I can come up with is that the code is actually wrong on their website. --!>
   <title> Evaluation 3 </title>
   <meta charset= "utf-8">
   <meta author= "Jake Whitehead">
