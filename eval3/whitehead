@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<head>
+  <title> Evaluation 3 </title>
+  <meta charset= "utf-8">
+  <meta author= "Jake Whitehead">
+  <meta course= "LIS 636" term= "Fall 2019">
+  <link href="reset.css" rel="stylesheet">
+  <link rel="stylesheet" href="eval3Style.css">
+</head>
+<body>
+  <header>
+    <h1> Evaluation 3 </h1>
+    <h2> Jacob Whitehead <h2>
+  </header>
+  <hr />
+  <p>
+    For the purposes of Evaluation 3, I will be conducting an examination of
+    the <a href="https://www.library.ucsb.edu" alt= "Link to the UCSB Davidson
+    Library Website" title= "Link to the Davidson Library Website"
+    target=" blank"> University of California, Santa Barbara’s Davidson Library
+    website. </a> In order to do this, I will be utilizing
+    Garrett’s 5 Planes of User Experience Design and applying those principles
+    to the Davidson Library website.
+  </p>
+  <br>
+<b> Section I: Surface </b>
+  <p>
+    To begin analyzing the Davidson Library website, we will start with the
+    top-most layer of Garrett’s planes - the Surface.
+    The surface deals with sensory design which is used to engage the user’s
+    senses when interacting with the website. However, as it is difficult, or
+    even impossible to engage all of the sense, there should naturally be a
+    focus on how the eye engages with the site.
+  <br>
+    The layout of the site facilitates a smooth eye-flow from top to bottom
+    and left to right, as the eye naturally wants to do (at least for a
+    western reader).
+    <img src="eval3/Davidson Library Eyemovement.png"
+    alt="Eye Movement Pattern" title="Eye Motion on Home Page">
+  <br>
+    There are open spaces that give the design an
+    unrestricted feel and there are 4 distinct sections:
+    <ol>
+      <li>
+        Library Search
+      </li>
+      <li>
+        Library Resources
+      </li>
+      <li>
+        News
+      </li>
+      <li>
+        Events
+      </li>
+    </ol>
+     Each section has its own design and function.
+  <br>
+    The four sections clearly indicate that they contain different types of
+    information. Each has links to to different resources available in their
+    sections and is easily navigable.
+  </p>
+  <br>
+<b> Section II: Skeleton </b>
+  <p>
+    The Skeleton layer deals with interface, navigation, and information design.
+  <br>
+    The interface, as mentioned previously, is divided into four sections.
+    They each communicate different information, and each in different ways.
+    <ul>
+      <li>
+        The first section has a unique box to the left of the search bar that
+        allows the user to search different resources. The search bar changes
+        correspondingly to the box selection.
+      </li>
+  <br>
+      <li>
+        The second section has two distinct bars of information - one on library
+        hours, another on services available in the library. The second bar in
+        the section has interactable links for the different services.
+      </li>
+  <br>
+      <li>
+        The third section, focusing on news, has a series of bees that are links
+        to news articles with arrow buttons to the left and right of the section
+        allowing the user to scroll through the listed announcements.
+      </li>
+  <br>
+      <li>
+        The fourth section, events and exhibitions, is divided into two blocks.
+        The left block has a series of dates and the events listed for them.
+        Each of the dates is a clickable link that takes the suer to a different
+        page with more information. The right box has scrolling series of
+        available exhibitions and is navigable via arrows on the left and right
+        of the box. The navigation is mixed into the interface, effectively
+        blending the two and gives it a natural feel.
+      </li>
+    </ul>
+  <br>
+    Regarding information design, the sections clearly indicate the types of
+    information that is available within them and is clearly indicated to the
+    user.
+  </p>
+  <br>
+<b> Section III Structure </b>
+  <p>
+    The third plane, Structure is split into Interaction Design, and
+    Information Architecture and mostly approaches how the page is interacted
+    with by users and how the system will respond to  the user’s behavior.
+  <br>
+    One thing that stands out to me is that my instinct is to think that the
+    library hours bar would have clickable links, but it has none and that
+    feels odd. Instead, it has a drop-down menu that offers more information.
+    <img src="eval3/Hours Menu.png"
+    alt="Hours Dropdown Menu" title="Library Hours Dropdown Menu">
+  <br>
+    Another thing about the menu is that generally, when a user clicks off a
+    menu, more often than note, that menu will close. The drop-down menu for
+    the hours does not close until the “Close X” button is clicked, which also
+    feels like a lack of thought.
+  <br>
+    Most everything else about the site, however, feels natural and operates
+    as one would expect of it. The site is built so that it effectively conveys
+    ideas and concepts that would be familiar to most internet users. As far as
+    I have been able to tell, the site is able to predict user interaction and
+    deal with responses. I am unable to make the site “break”.
+  </p>
+  <br>
+<b> Sections IV: Scope </b>
+  <p>
+    According to Garrett, the question to be answered on the scope plane is
+    “What are we going to make?” In order to determine to scope of the website,
+    it must be divided into the product as functionality, and product as
+    information.
+  <br>
+    The Functional Specifications of the website:
+    <ul>
+      <li>
+        It must be able to be searchable
+      </li>
+      <li>
+        It must have lists of resources available
+      </li>
+      <li>
+        It must have a list of services that are available
+      </li>
+    </ul>
+    <br>
+    Information Specifications of the website:
+      <ul>
+        <li>
+          It must be UCSB branded
+        </li>
+        <li>
+          It must communicate the concept of the library
+        </li>
+      </ul>
+      <br>
+      Regarding function, the website works as it would be expected to.
+      The search function works as expected and allows the user to easily
+      search different databases. Most of the resources and services available
+      are listed on the main page or can be accessed through one or two links
+      from therein page. The page clearly demonstrates the University’s brand,
+      which is immediately communicated upon viewing the website,
+      which is done through several outlets: the brand guide colors and the
+      logo of the University.
+    <br>
+      The word "library" or some variation thereof is found 12 times on the
+      main page. Upon viewing the page, the user is greeted with a host of
+      services and a large search bar advertising “Search articles, books,
+      and more”.
+  </p>
+  <br>
+<b> Sections V: Strategy </b>
+  <p>
+    Garrett says that in order to examine the Strategy plane, we must pose
+    the question: Why are we making this product?” And in order to answer that,
+    we must ask two more questions: What does the library need to get out of
+    the website and what do the users need to get out of it?
+  <br>
+    The library needs a website that facilitates a successful user experience
+    and the users need a website that is a usable product, carefully designed
+    with the intention of them utilizing it as a functional library website.
+  <br>
+    Ultimately, the website is designed with the user in mind, allowing it to
+    facilitate a successful user experience. From the user's point of view,
+    it is easy to navigate and make sue of the resources and services offered
+    by the library. The site is responsive and interactive and the different
+    sections are clearly marked. It contains an effective underlying strategy
+    which sets the rest of the website up for success.
+  </p>
+</body>
+  <hr />
+<anchor>
+  <meta Date Completed= "9-24-19">
+  Contact email: <a href="mailto:jrwhite9@uncg.edu" alt="Author's email address"
+  title="Email the author of this page" target=" blank"> jrwhite9@uncg.edu </a>
+</anchor>
