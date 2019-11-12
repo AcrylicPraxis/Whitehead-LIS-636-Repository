@@ -1,0 +1,35 @@
+/*General*/
+h1 {
+  color: #FEBC11;
+  }
+h2 {
+  color: #FEBC11;
+  }
+p {
+  color: black;
+  }
+ul {
+  color: black;
+  }
+ol {
+  color: black;
+  }
+body {
+  background-color: 373A36;
+  width: 85%;
+  display: block;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  }
+header {
+  background-color: CEB888;
+  width: 85%;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  }
+img {
+  border: black solid 5px;
+}
+
+/*Layout*/
