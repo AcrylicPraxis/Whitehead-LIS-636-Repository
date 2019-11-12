@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<head>
+  <title> Evaluation 3 </title>
+  <meta charset= "utf-8">
+  <meta author= "Jake Whitehead">
+  <meta course= "LIS 636" term= "Fall 2019">
+  <link href="reset.css" rel="stylesheet">
+  <link rel="stylesheet" href="eval4Style.css">
+</head>
+<body>
+  <header>
+    <h1> Evaluation 4 </h1>
+    <h2> Jacob Whitehead <h2>
+  </header>
+  <hr />
+  <p>
+  For this evaluation, I will be reviewing the library website for the <a href="https://zsr.wfu.edu" 
+  alt= "Link to the Z. Smith Reynolds Library Website" title= "Link to the Z. Smith Reynolds Library Website" 
+  target=" blank"> Z. Smith Reynolds Library on the Wake Forest University Campus. I have a connection with this 
+  website as I used it more than any other site during my first graduate program at Wake Forest. 
+  It is an easily navigable, clearly thought-out site that, in my opinion is very user 
+  friendly. However, let us see how it stacks up against my chosen Law of User Experience: 
+  The Law of Common Region.
+  </p>
+  <br>
+<b> Section I: Definitions </b>
+  <p>
+  To begin with, we must have some definitions in place in order to define just what I am talking about.
+  <br>
+  According to <a href="https://lawsofux.com" alt= "Link to the Laws of UX Website" 
+  title= "Link to the Laws of UX Website" target=" blank"> lawsofux.com, the definition 
+  of The Law of Common Region is: “Elements tend to be perceived into groups if they are sharing an area 
+  with a clearly defined boundary.” This seems simple enough - the elements of a website will be mentally 
+  grouped together by the user if they share a boundary. The principles of grouping, also known as Gestalt 
+  laws of grouping are based on psychological principles. If you are like me, you had to look up the meaning 
+  of “Gestalt”. According to Merriam-Webster, gestalt means “something that is made of many parts and yet is 
+  somehow more than or different from the combination of its parts.” However, the German word, “gestalt” 
+  simply means “shape” or “form”. Gestalt Principles, however, “aim to formulate the regularities according 
+  to which the perceptual input is organized into unitary forms, also referred to as (sub)wholes, groups, 
+  groupings, or Gestalten (the plural form of Gestalt).”
+  <br>
+  So what does this mean in association with the Law of Common Region?
+  <br>
+  It means that according to visual perception, grouping is important and usually comes naturally to the user 
+  and increases the possibility of the user accepting the website as a usable interface. “In web design, 
+  organising the elements of a page on the basis of GP [Gestalt Principles] seem to be a promising, effective 
+  approach to improve perception. ‘Gestalt’ ‘refers to a structure, configuration or layout that is unified 
+  and has specific properties that are greater than the simple sum of its individual parts’. According to 
+  the Gestalt approach, the visual system follows certain grouping principles, including common fate, good 
+  continuation, proximity and similarity.”
+  <br>
+  An important aspect included in Gestalt grouping that the mind can rely on is symmetry. 
+  "Symmetry gives us a feeling of solidity and order, which we tend to seek. It’s our nature to impose 
+  order on chaos. This principle leads us to want balance in composition, though our compositions don’t 
+  need to be perfectly symmetrical to be in balance.”(Design Principles, Visual Perception, 
+  and the Principles of Gestalt, 2014)The home page of the ZSR website relies on symmetry to aid in 
+  the grouping of objects. So with all this in mind, let us begin to examine the page itself.
