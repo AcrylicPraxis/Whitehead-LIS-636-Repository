@@ -1,9 +1,9 @@
 /*General*/
 h1 {
-  color: #FEBC11;
+  background-color: #CEB888
   }
 h2 {
-  color: #FEBC11;
+  background-color: #CEB888;
   }
 p {
   color: black;
@@ -15,15 +15,15 @@ ol {
   color: black;
   }
 body {
-  background-color: 373A36;
   width: 85%;
   display: block;
   margin-left: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
+  background-color: gray
   }
 header {
-  background-color: CEB888;
+  background-color: #CEB888;
   width: 85%;
   margin-left: 20px;
   margin-bottom: 20px;
