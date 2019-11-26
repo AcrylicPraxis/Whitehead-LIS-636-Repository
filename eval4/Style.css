@@ -1,5 +1,22 @@
 /*General*/
-
+body {
+  width: 85%;
+  display: block;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: gray;
+  /* Zack: Just ported these over from the other style sheet to make it more readable for me.*/
+  font-size: 1em;
+  font-family: Tahoma;
+  line-height: 2.25em;
+  } /*we want our css sheet to go from broad to specific because it will flow down. so a general catagory placed beneath a more specific one may override that specific style even though we want to override the general style. */
+header {
+    background-color: #CEB888;
+    width: 85%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    }
 h1 {
   background-color: #CEB888
   }
@@ -15,24 +32,12 @@ ul {
 ol {
   color: black;
   }
-body {
-  width: 85%;
-  display: block;
-  margin-left: 20px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  background-color: gray;
-  /* Zack: Just ported these over from the other style sheet to make it more readable for me.*/
-  font-size: 1em;
-  font-family: Tahoma;
-  line-height: 2.25em;
-  }
-header {
-  background-color: #CEB888;
-  width: 85%;
-  margin-left: 20px;
-  margin-bottom: 20px;
-  }
+blockquote {
+  font-size: 0.95em;
+  font-family: Times;
+  line-height: 2.05em;
+}
+
 img {
   border: black solid 5px;
 }
