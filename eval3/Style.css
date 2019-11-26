@@ -11,7 +11,7 @@ p {
   font-family: Tahoma;
   line-height: 2.25em;
   width:35%;
-  /*The reset file made it so dull and a bit unreadable with spacing. I've condensed the text here, to make it more readable. Now, I've also broken it a bit in that while this is responcive it won't flow well on smaller screens. If I was doing this for more than demonstration purposes. I'd want to use media breaks, which we haven't talked about.*/
+  /*The reset file made it so dull and a bit unreadable with spacing. I've condensed the text here, to make it more readable. Now, I've also broken it a bit in that while this is responcive it won't flow well on smaller screens. If I was doing this for more than demonstration purposes. I'd want to use media queries, which we haven't talked about, but that allow me to override layouts based on screen size.*/
   }
 ul {
   color: black;
