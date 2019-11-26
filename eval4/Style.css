@@ -1,4 +1,5 @@
 /*General*/
+
 h1 {
   background-color: #CEB888
   }
@@ -20,7 +21,11 @@ body {
   margin-left: 20px;
   margin-top: 20px;
   margin-bottom: 20px;
-  background-color: gray
+  background-color: gray;
+  /* Zack: Just ported these over from the other style sheet to make it more readable for me.*/
+  font-size: 1em;
+  font-family: Tahoma;
+  line-height: 2.25em;
   }
 header {
   background-color: #CEB888;
